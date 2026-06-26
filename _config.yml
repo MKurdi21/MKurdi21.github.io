@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mohammad Alkurdi"
+title                    : "Mohammed Alkurdi"
 title_separator          : "-"
-name                     : &name "Mohammad Alkurdi"
+name                     : &name "Mohammed Alkurdi"
 description              : &description "Ph.D. student in Computer Science and Engineering at Wright State University researching AI security, agentic AI security, software security, adversarial machine learning, and secure financial systems."
 url                      : "https://mkurdi21.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "MKurdi21/MKurdi21.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mohammad Alkurdi"
+  name             : "Mohammed Alkurdi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Computer Science & Engineering at Wright State University. Currently working under Prof. Junjie Zhang; prior M.S. and early Ph.D. research under Prof. Fathi Amsaad. Researching AI security, agentic AI security, software security, adversarial ML, and secure financial systems."
   location         : "Dayton, Ohio, USA"
