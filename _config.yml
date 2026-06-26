@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mohammed Alkurdi"
+title                    : "Mohammad Alkurdi"
 title_separator          : "-"
-name                     : &name "Mohammed Alkurdi"
+name                     : &name "Mohammad Alkurdi"
 description              : &description "Ph.D. student in Computer Science and Engineering at Wright State University researching AI security, agentic AI security, software security, adversarial machine learning, and secure financial systems."
-url                      : "https://MKurdi21.github.io"
+url                      : "https://mkurdi21.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MKurdi21/MKurdi21.github.io"
 
@@ -23,7 +23,7 @@ repository               : "MKurdi21/MKurdi21.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mohammed Alkurdi"
+  name             : "Mohammad Alkurdi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Computer Science & Engineering at Wright State University. Currently working under Prof. Junjie Zhang; prior M.S. and early Ph.D. research under Prof. Fathi Amsaad. Researching AI security, agentic AI security, software security, adversarial ML, and secure financial systems."
   location         : "Dayton, Ohio, USA"
@@ -80,12 +80,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Manuscripts and Theses'    
+  journals:
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints and Research Outputs'
+  manuscripts:
+    title: 'Manuscripts and Theses'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -13,11 +13,11 @@ Education
 ======
 
 * Ph.D. in Computer Science and Engineering, Wright State University — in progress
-  * Currently working under Professor Junjie Zhang.
-  * Completed the first two semesters of Ph.D. work under Professor Fathi Amsaad.
-  * Current research interests: AI security, agentic AI security, software/security analysis, adversarial machine learning, and secure financial systems.
+  * Current research under Professor Junjie Zhang.
+  * Early Ph.D. research under Professor Fathi Amsaad.
+  * Research interests: AI security, agentic AI security, software/security analysis, adversarial machine learning, and secure financial systems.
   * Graduate coursework includes Distributed Computing, Advanced Software Engineering, Algorithm Design and Analysis, Machine Learning, Cloud Computing, Fundamentals of Data Science, independent study, and residency research.
-  * Current graduate GPA: 4.00 through Spring 2026, based on graded coursework available in the transcript record.
+  * Graduate GPA: 4.00 through Spring 2026, based on graded coursework available in the transcript record.
 
 * M.S. in Cyber Security, Cyberdefense Concentration, Wright State University — awarded December 14, 2024
   * Research under Professor Fathi Amsaad.

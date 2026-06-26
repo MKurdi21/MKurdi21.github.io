@@ -7,4 +7,4 @@ tags:
   - research
 ---
 
-This website is being updated as a professional academic portfolio for my Ph.D. research, selected projects, publications, and cybersecurity/payment-systems background.
+This website is being updated as a professional academic portfolio for Mohammad Alkurdi's Ph.D. research, selected projects, publications, and cybersecurity/payment-systems background.
