@@ -18,7 +18,9 @@ Mohammed Alkurdi contributed to this research during his M.S. and early Ph.D. wo
 
 ## Approach
 
-The work considers ML-assisted hardware Trojan detection using side-channel or ring-oscillator-informed measurements and evaluates how detection behavior changes under adversarial or golden-reference-free conditions. The public summary is intentionally limited to high-level methods and published evidence, avoiding restricted datasets or unpublished implementation details.
+The work considers ML-assisted hardware Trojan detection using side-channel or ring-oscillator-informed measurements and evaluates how detection behavior changes under adversarial or golden-reference-free conditions. The private implementation workspace supports a structured experiment pipeline around Ring Oscillator Network (RON) measurements, chip-disjoint/versioned train-test splits, supervised baselines, repeated-trial analysis, target-guided feature-space attack evaluation, practical attack ablations, adversarial retraining, adaptive defense evaluation, and paper-ready result consolidation.
+
+Modeling and evaluation work includes conventional supervised learners and ensembles, PCA-informed comparisons, grouped validation to reduce chip-leakage risk, confusion-derived security metrics, confidence summaries, and reproducible manifests for experiment auditing. The public summary is intentionally limited to high-level methods and published evidence, avoiding restricted datasets, private implementation details, and unpublished result tables.
 
 ## Outputs and Evidence
 
@@ -27,6 +29,7 @@ The work considers ML-assisted hardware Trojan detection using side-channel or r
 - Conference paper: [Enhancing Hardware Trojan Security through Reference-Free Clustering using Representatives](/publication/2024-01-06-reference-free-clustering-representatives)
 - Journal article: [A Golden-Free Unsupervised ML-Assisted Security Approach for Detection of IC Hardware Trojans](/publication/2025-07-01-golden-free-unsupervised-ml-ic-trojans)
 - Thesis: [A Trusted Adversarial ML Countermeasure Approach for Secure and Resilient AI-Driven Hardware Trojan Detection](/publication/2024-12-14-ms-thesis-hardware-trojan-detection)
+- Implementation repository private; public summary supported by peer-reviewed publications and M.S. thesis.
 
 ## Current Status
 
@@ -34,4 +37,4 @@ Published / completed.
 
 ## Security and Ethics
 
-The page presents peer-reviewed and thesis-level outputs without exposing restricted datasets, sensitive implementation details, or unpublished experimental artifacts. The emphasis is defensive robustness evaluation for hardware-security-sensitive settings.
+The page presents peer-reviewed and thesis-level outputs without exposing restricted datasets, sensitive implementation details, raw experiment artifacts, or unpublished numeric results. The emphasis is defensive robustness evaluation for hardware-security-sensitive settings.
