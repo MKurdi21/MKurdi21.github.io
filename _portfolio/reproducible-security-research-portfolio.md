@@ -2,6 +2,8 @@
 title: "Reproducible Security Research Portfolio"
 excerpt: "Forward-looking portfolio page for future code, notebooks, and documentation artifacts."
 collection: portfolio
+published: false
+sitemap: false
 ---
 
 This page is a forward-looking placeholder for selected reproducible artifacts that Mohammed Alkurdi plans to add over time.

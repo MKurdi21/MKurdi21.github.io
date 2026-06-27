@@ -11,7 +11,9 @@ Mohammed Alkurdi's research focuses on the security of AI-enabled systems, espec
 
 ### Agentic AI and Web-Agent Security
 
-Mohammed currently studies why web and browser-based AI agents can be more vulnerable than standalone LLMs. This work focuses on risks created by tool use, webpage interaction, external content, long-horizon task execution, prompt injection, credential exposure, and unsafe autonomous actions.
+Mohammed currently studies why web and browser-based AI agents can be more vulnerable than standalone LLMs. This work focuses on risks created by tool use, webpage interaction, external content, long-horizon task execution, prompt injection, credential exposure, unsafe autonomous actions, and weak boundaries between untrusted web content and privileged tools.
+
+Related public artifacts include Mohammed's authored [Agentic-Web-Crawlers](https://github.com/MKurdi21/Agentic-Web-Crawlers) repository, a literature-synthesis and research-mapping resource on web agents, browser automation, website traversal, web-agent benchmarks, and web-agent safety/security. His authored [Agentic-AI-Security-Papers](https://github.com/MKurdi21/Agentic-AI-Security-Papers) repository is a curated paper/resource collection for agentic AI security literature review. These repositories support literature review and problem framing rather than representing finalized experimental systems.
 
 ### AI-Assisted Software and Malware Security
 
@@ -31,7 +33,7 @@ This prior research background informs his broader interest in robust and trustw
 
 ### Financial and Payment-System Security
 
-Before his graduate research, Mohammed worked in business-side QA/UAT for banking card and payment systems. That experience included ATM, POS, mobile POS, online payment gateway, PowerCARD-Switch, EMV-related validation, transaction routing, reversals, settlement, audit trails, fraud-sensitive scenarios, and compliance-aware testing.
+Before his graduate research, Mohammed worked in business-side QA/UAT for banking card and payment systems. That experience included payment-channel integration testing, transaction routing, reversals, settlement-related outputs, audit trails, fraud-sensitive scenarios, and compliance-aware validation. It is presented as background context for security-critical software workflows rather than as standalone public project evidence.
 
 ## Faculty and Research Environment
 

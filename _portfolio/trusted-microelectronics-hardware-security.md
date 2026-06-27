@@ -2,6 +2,8 @@
 title: "Trusted Microelectronics and Hardware Security"
 excerpt: "Research background in trusted microelectronics and AI-assisted hardware security."
 collection: portfolio
+published: false
+sitemap: false
 ---
 
 This project page describes Mohammed Alkurdi's research background in trusted microelectronics and hardware-oriented security in the SMART Cybersecurity Research Lab environment.

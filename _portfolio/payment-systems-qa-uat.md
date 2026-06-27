@@ -2,6 +2,8 @@
 title: "Payment Systems QA/UAT"
 excerpt: "Business-side QA/UAT experience in regulated banking card and payment systems."
 collection: portfolio
+published: false
+sitemap: false
 ---
 
 This project summarizes Mohammed Alkurdi's Bank of Palestine business-side QA/UAT experience in card and payment-system contexts.

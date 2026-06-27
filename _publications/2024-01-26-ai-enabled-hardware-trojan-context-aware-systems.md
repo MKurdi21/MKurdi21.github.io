@@ -2,6 +2,8 @@
 title: "AI-enabled Hardware Trojan Detection for Secure and Trusted Context-Aware Embedded Systems"
 collection: publications
 category: preprints
+published: false
+sitemap: false
 permalink: /publication/2024-01-26-ai-enabled-hardware-trojan-context-aware-systems
 excerpt: "TechRxiv preprint on AI-enabled hardware Trojan detection for trusted context-aware embedded systems."
 date: 2024-01-26

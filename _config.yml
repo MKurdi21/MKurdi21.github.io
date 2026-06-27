@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Mohammed Alkurdi"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Computer Science & Engineering at Wright State University. Currently working under Prof. Junjie Zhang; prior M.S. and early Ph.D. research under Prof. Fathi Amsaad. Researching AI security, agentic AI security, software security, adversarial ML, and secure financial systems."
+  bio              : "Ph.D. student in Computer Science & Engineering at Wright State University researching AI security, web-agent security, adversarial ML, and security-critical software workflows."
   location         : "Dayton, Ohio, USA"
   employer         : "Wright State University"
   uri              : # URL
@@ -84,8 +84,6 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
-  preprints:
-    title: 'Preprints and Research Outputs'
   manuscripts:
     title: 'Manuscripts and Theses'
 
@@ -188,6 +186,9 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - PUBLICATION_TODO.md
+  - DEPLOYMENT_NOTES.md
   - tmp
   - vendor
 keep_files:

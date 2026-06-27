@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Research Focus
+======
+
+Mohammed Alkurdi researches AI security, agentic AI and web-agent security, adversarial machine learning, hardware Trojan detection, and defensive LLM-assisted software/malware-security analysis. His professional background in regulated banking/payment QA is included as security-critical software experience rather than as standalone public project evidence.
+
+Quick Links
+======
+
+* [Google Scholar](https://scholar.google.com/citations?user=01Td_4kAAAAJ&hl=en)
+* [ORCID](https://orcid.org/0009-0000-1337-419X)
+* [GitHub](https://github.com/MKurdi21)
+* [LinkedIn](https://www.linkedin.com/in/alkurdim)
+* [Publications](/publications/)
+* [Projects](/portfolio/)
+
 Education
 ======
 
@@ -46,6 +61,14 @@ Research Experience
 * Current Ph.D. research under Professor Junjie Zhang: security analysis of agentic AI and web/browser-based AI agents.
 * M.S. and early Ph.D. research under Professor Fathi Amsaad: adversarial machine learning, hardware Trojan detection, side-channel data, and ML-assisted hardware-security evaluation.
 * Experience with experimental research workflows, literature review, research writing, and graduate-level independent study.
+
+Selected Authored GitHub Artifacts
+======
+
+Selected repositories are limited to authored or substantially maintained public artifacts. Forked repositories and external benchmark/tool repositories are not presented as original work.
+
+* [Agentic-Web-Crawlers](https://github.com/MKurdi21/Agentic-Web-Crawlers) — literature-synthesis and research-mapping resource on web agents, browser automation, website traversal, web-agent benchmarks, and web-agent safety/security.
+* [Agentic-AI-Security-Papers](https://github.com/MKurdi21/Agentic-AI-Security-Papers) — curated paper/resource collection for agentic AI security literature review.
 
 Professional Experience
 ======

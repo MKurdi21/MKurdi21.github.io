@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
+Selected projects are limited to research directions with public, thesis, publication, or clearly documented evidence. Additional professional experience is summarized in the CV rather than presented as standalone project pages.
+
+Selected GitHub links are limited to authored or substantially maintained public repositories. Forked benchmark/tool repositories are not presented as original work.
+
+{% assign selected_projects = site.portfolio | where_exp: "item", "item.order" | sort: "order" %}
+{% for post in selected_projects %}
   {% include archive-single.html %}
 {% endfor %}

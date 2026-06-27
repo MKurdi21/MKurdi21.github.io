@@ -2,6 +2,8 @@
 title: "ATM/POS/Mobile POS Integration Testing"
 excerpt: "Integration and rollout testing for banking payment channels."
 collection: portfolio
+published: false
+sitemap: false
 ---
 
 This project focuses on payment-channel integration testing across ATM, POS, mobile POS, online payment gateway, and card workflows.

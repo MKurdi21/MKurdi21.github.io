@@ -1,5 +1,8 @@
 # Main navigation for Mohammed Alkurdi's academic portfolio.
 main:
+  - title: "About"
+    url: /
+
   - title: "Research"
     url: /research/
 
